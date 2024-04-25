@@ -18,3 +18,6 @@ Oratio AI is an advanced communication tool that seamlessly converts text input 
 - HTML
 - JavaScript
 - Machine Learning (ML)
+
+## Screenshots
+
